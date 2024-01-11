@@ -1,0 +1,26 @@
+
+
+
+body{
+
+background-color:antiquewhite}
+
+        a{
+            color:blue
+            font-size 70 px;}
+
+        h1{ 
+            border: 2px solid red;
+            padding-top:50 px;}
+
+        h2{
+            border:2px solid blue;
+            margin-top:100 px;
+            padding: left 20px; 
+        }
+    
+        
+        p{
+        color: green font-size 20px;}
+        
+
